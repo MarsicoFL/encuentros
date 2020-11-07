@@ -16,11 +16,9 @@ La acuciante realidad que se nos impone, producto de la pandemia Covid-19, escap
 Aquellos países que no han tomado medidas de aislamiento preventivo en una etapa temprana, como Brasil o Estados Unidos, recibieron un mayor embate de la enfermedad, teniendo hoy un gran número de muertes. Sin el acompañamiento del Estado, la efectivización de medidas preventivas por parte de la población resulta imposible o deriva en graves consecuencias. Recientemente el ex Presidente de Brasil, Lula Da Silva, calificó de genocidio la situación de su país ante la pandemia. Más allá de demostrarse la intencionalidad de aniquilamiento de un sector de la población (un trabajo pendiente al terminar la pandemia), por acción u omisión, las consecuencias son las mismas, son las comunidades de menores recursos las que, sin ayuda del Estado, reciben el mayor impacto.
 
 Por ejemplo, la ocupación ilegal de tierras en la Amazonía ha crecido en los últimos tiempos debido a la imposibilidad de los pobladores indígenas de vigilar los territorios en un contexto de aislamiento. Por este motivo la Secretaría Especial de Salud Indígena de Brasil y la Articulación de los Pueblos Indígenas de Brasil (APIB) reclaman un plan de emergencia para garantizar la protección de los territorios. Un escenario similar se repite en otros países:
-[Septiembre]
-
-    Perú, donde la AIDESEP (Asociación Interétnica de Desarrollo de la Selva Peruana) denunció al gobierno de etnocidio frente a la Organización de Naciones Unidas;
-    Chile, y su creciente racismo: hace pocos días en la Araucania grupos de civiles se sumaron a los carabineros con el fin de reprimir una protesta mapuche, y
-    Bolivia, con constantes denuncias de hostigamiento por parte de civiles y del gobierno de facto.
+1- Perú, donde la AIDESEP (Asociación Interétnica de Desarrollo de la Selva Peruana) denunció al gobierno de etnocidio frente a la Organización de Naciones Unidas;
+2- Chile, y su creciente racismo: hace pocos días en la Araucania grupos de civiles se sumaron a los carabineros con el fin de reprimir una protesta mapuche, y
+3- Bolivia, con constantes denuncias de hostigamiento por parte de civiles y del gobierno de facto.
 
 En nuestro país, en este momento de intensa propagación del virus, con sus consecuencias por todxs conocidas, aumento de personas que enferman y que mueren, estamos ante un contexto en el cual la posibilidad de realizar un aislamiento preventivo, es decir, de quedarse en casa, se convierte en una necesidad, y por lo tanto un derecho, para proteger la vida y la salud.
 
