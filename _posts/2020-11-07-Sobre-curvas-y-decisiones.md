@@ -2,8 +2,8 @@
 layout: post
 title: "Sobre curvas y decisiones: el rol de los modelos matemáticos durante la pandemia de COVID-19"
 author: "Franco Marsico"
-categories: ambiente
-tags: [ambiente]
+categories: epidemiologia
+tags: [epidemiologia]
 image: ambiente-1.jpg
 ---
 
