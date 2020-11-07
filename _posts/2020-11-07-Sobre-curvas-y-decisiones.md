@@ -18,7 +18,7 @@ Es de común acuerdo que se espera un progresivo aumento en el número de casos 
 ### Aplicando el esquema del modelo SEIR
 Uno de los modelos frecuentemente utilizados es el conocido como SEIR (Susceptible – Expuesto – Infectado – Recuperado) cuyo comportamiento se esquematiza en la Figura 1. El mismo asume que los individuos susceptibles, que son todos aquellos que no poseen inmunidad, una vez contagiados entran en un primer estado asintomático. Luego se pasa a un cuadro leve donde se presentan síntomas como fiebre, tos y/o dificultad respiratoria. La hospitalización no es un requisito esencial en esta etapa. Posteriormente se avanza a un cuadro severo en el cual se presenta un aumento de la frecuencia respiratoria y una baja en la saturación del oxígeno en sangre, en estos casos la hospitalización si es un requisito. El último cuadro es el crítico, en el cual se presentan fallas respiratorios graves, shock séptico y múltiples fallas orgánicas. En este último se requiere tratamiento en unidades de cuidado intensivos (UTI) y ventilación mecánica. En cualquiera de los estadios los individuos pueden recuperarse o bien progresar en la enfermedad hasta la muerte.
 
-<p>![alt 1](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-1.jpg "Gráfico 1")</p>
+![image](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-1.jpg "Gráfico 1")
 
 
 ### Definiendo los parámetros
@@ -59,7 +59,7 @@ El efecto de las medidas de distanciamiento tiene impacto directo sobre la veloc
 
 Así mismo, se pueden plantear distintos escenarios de mitigación. Con el fin de comparar escenarios podemos proponer dos situaciones: en una, llamémosla A, luego de una cuarentena total de un mes, se permite libre circulación de la población en la región. En otra, llamémosla B, se continúa con medidas de mitigación sostenidas por más de tres meses. Esto implica evitar eventos que aglutinan a la población, controlar medios de transporte, preparar turnos diferenciales de trabajo, etc. El efecto de estas medidas tiene impacto directo sobre la velocidad de propagación (parámetro presente en el modelo) y se ha estudiado en distintos ejemplos a nivel mundial cómo diferentes medidas contribuyen a disminuir dicha velocidad.
 
-<p>![alt 2](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-2.jpg "Gráfico 2")</p>
+![image](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-2.jpg "Gráfico 2")
 
 En la Figura 2 puede observarse la cantidad de infectados en estado severo y crítico (ambos grupos que requieren hospitalización) en función del tiempo. Una liberación de la circulación (escenario A) es seguida de un fuerte incremento de casos llegando a un pico a fines del mes de mayo. En cambio, manteniendo medidas de mitigación el pico se retrasa hasta mediados de julio y al achatarse se pasa de un escenario con un pico de 250 mil casos (escenario A) a uno de 100 mil casos (escenario B). Es importante destacar que, de todos modos, en ambos escenarios la cantidad de infectados que requieren hospitalización está muy por encima de las capacidades del sistema sanitario.
 
@@ -67,14 +67,15 @@ En la Figura 2 puede observarse la cantidad de infectados en estado severo y cr�
 Al plantear el modelo anterior se tomó en consideración la aplicación de una medida uniforme sobre toda la región. Sin embargo, existen dos supuestos importantes: por un lado la probabilidad de contagio es igual entre todos los habitantes, y por otro, la probabilidad de morir a causa de la enfermedad también.
 
 Supongamos que, en base a un estudio que tiene en cuenta las características demográficas, sociales y económicas, logramos subdividir a la región planteada en el ejemplo de la Figura 2. Por un lado tenemos la subregión 1 que se la puede describir como una zona residencial que posee una densidad y tamaño poblacional bajos, con un porcentaje del 10% de población por encima de los 60 años. Esta presenta una gran cantidad de casos al inicio de la simulación (100 de los 200 casos). Como puede observarse, si se aplica el escenario B, el aumento paulatino de casos presenta una ventaja dado que al ser una zona residencial la posibilidad de un aislamiento domiciliario es factible y el número de casos que requieren hospitalización (suponemos un porcentaje más alto considerando una proporción superior a la media de adultos mayores a 60 años) puede ser controlable.
-<p>![alt 3](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-3.png "Gráfico 3")</p>
+
+![image](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-3.png "Gráfico 3")
 
 
 Por otro lado tomamos otra zona, que llamaremos subregión 2 (Figura 4) donde se registra un mayor nivel de hacinamiento y una cantidad de habitantes alta (1.500.000 habitantes), por lo tanto, se supone más velocidad de propagación viral lo que deriva en un gran número de casos. Es importante destacar que esta región posee muy pocos casos en el principio de la simulación y se considera una tasa de importación de infectados desde la región 1 (supongamos que podría ser por tránsito de personas entre ambas). En este caso una de las medidas del escenario B resulta muy efectiva, en la que puntualmente se considera evitar al máximo posible el contacto con la región 1, además de las otras medidas antes mencionadas.
 
 Esto último es importante dado que significa más tiempo de reacción para detectar incrementos fuertes en la cantidad de casos mediante un monitoreo epidemiológico exhaustivo y localizado con el fin de aplicar medidas de mitigación más estrictas y/o dotar al sistema sanitario de recursos anticipándose al aumento de casos.
 
-<p>![alt 4](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-4.png "Gráfico 4")</p>
+![image](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-4.png "Gráfico 4")
 
 
 Analizando cada subregión por separado observamos distintas respuestas que pueden conllevar a diferentes tomas de decisiones. Mientras que en la subregión 1 bastaría con la aplicación de las medidas del escenario B, en la subregión 2 se debe continuar con un monitoreo exhaustivo con el fin de detectar posibles focos y tomar medidas que pueden incluir retomar la cuarentena social y obligatoria.
