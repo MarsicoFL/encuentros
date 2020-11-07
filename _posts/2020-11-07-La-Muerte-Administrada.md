@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Muerte Administrada"
+title: "la muerte administrada"
 author: "Mabel Careaga y Franco Marsico"
 categories: divulgacion
 tags: [divulgacion]
