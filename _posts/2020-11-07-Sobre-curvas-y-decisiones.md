@@ -4,7 +4,7 @@ title: "Sobre curvas y decisiones: el rol de los modelos matemáticos durante la
 author: "Franco Marsico"
 categories: epidemiologia
 tags: [epidemiologia]
-image: ambiente-1.jpg
+image: Ambiente-1.jpeg
 ---
 
 # Sobre curvas y decisiones: el rol de los modelos matemáticos durante la pandemia de COVID-19
