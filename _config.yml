@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Encuentros"
-description:	       "Jekll para blog personal"
+description:	       "Ciencia"
 author:              "Franco Marsico"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
