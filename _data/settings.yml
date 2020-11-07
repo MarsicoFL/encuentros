@@ -12,7 +12,7 @@ menu:
 - {name: 'Tutoriales', folder: 'pages', file: 'tutoriales.html'}
 - {name: 'Desarrollos en R', folder: 'pages', file: 'programas.html'}
 - {name: 'Divulgación', folder: 'pages', file: 'divulgacion.html'}
-- {name: 'Autor', folder: 'pages', file: 'Autor.md'}
+- {name: 'Autor', folder: 'pages', file: 'Autor.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
