@@ -21,7 +21,7 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/fran_marsico'}
 - {icon: 'envelope', link: 'mailto: franco.lmarsico@gmail.com'}
 - {icon: 'github', link: 'https://github.com/MarsicoFL/'}
-- {icon: 'rss-square', link: 'http://www.ic.fcen.uba.ar/actividades-academicas/transferencia/redes-complejas'}
+- {icon: 'atom', link: 'http://www.ic.fcen.uba.ar/redescomplejas/index.html'}
 
 # Customize site text
 #pagination:
