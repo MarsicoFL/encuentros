@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Acerca de Encuentros!"
+author: "Franco Marsico"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
