@@ -4,7 +4,7 @@ title: "La necesidad y el derecho"
 author: "Mabel Careaga, Hector Francisetti y Franco Marsico"
 categories: divulgacion
 tags: [divulgacion]
-image: DDHH-2.jpg
+image: DDHH-1.jpg
 ---
 
 #  La necesidad y el derecho
