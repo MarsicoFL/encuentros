@@ -4,7 +4,7 @@ title: "La Muerte Administrada"
 author: "Mabel Careaga y Franco Marsico"
 categories: divulgacion
 tags: [divulgacion]
-image: DDHH-1.jpg
+image: DDHH-2.jpg
 ---
 
 # La Muerte Administrada
