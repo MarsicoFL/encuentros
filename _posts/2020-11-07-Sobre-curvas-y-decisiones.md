@@ -74,7 +74,7 @@ Por otro lado tomamos otra zona, que llamaremos subregión 2 (Figura 4) donde se
 
 Esto último es importante dado que significa más tiempo de reacción para detectar incrementos fuertes en la cantidad de casos mediante un monitoreo epidemiológico exhaustivo y localizado con el fin de aplicar medidas de mitigación más estrictas y/o dotar al sistema sanitario de recursos anticipándose al aumento de casos.
 
-![alt 4](https://github.com/MarsicoFL/encuentros/tree/gh-pages/assets/img/grafico-4.png "Gráfico 4")
+![alt 4](grafico-4.png "Gráfico 4")
 
 
 Analizando cada subregión por separado observamos distintas respuestas que pueden conllevar a diferentes tomas de decisiones. Mientras que en la subregión 1 bastaría con la aplicación de las medidas del escenario B, en la subregión 2 se debe continuar con un monitoreo exhaustivo con el fin de detectar posibles focos y tomar medidas que pueden incluir retomar la cuarentena social y obligatoria.
