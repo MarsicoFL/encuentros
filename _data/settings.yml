@@ -8,7 +8,7 @@ google-ID: 'G-BZHCWQ0GPM'
 
 menu:
 - {name: 'Genética', folder: 'pages', file: 'genetica.html'}
-- {name: 'Epidemiología ambiental', folder: 'pages', file: 'ambiente.html'}
+- {name: 'Tecnologías de información', folder: 'pages', file: 'ambiente.html'}
 - {name: 'Tutoriales', folder: 'pages', file: 'tutoriales.html'}
 - {name: 'Desarrollos en R', folder: 'pages', file: 'programas.html'}
 - {name: 'Divulgación', folder: 'pages', file: 'divulgacion.html'}
