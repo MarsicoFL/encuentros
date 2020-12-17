@@ -2,7 +2,7 @@
 layout: post
 title: "Sobre curvas y decisiones"
 author: "Franco Marsico"
-categories: Divulgacion
+categories: Divulgación
 tags: [Divulgacion]
 image: Ambiente-1.jpeg
 ---
