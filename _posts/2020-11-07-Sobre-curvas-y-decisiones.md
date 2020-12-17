@@ -2,8 +2,8 @@
 layout: post
 title: "Sobre curvas y decisiones"
 author: "Franco Marsico"
-categories: epidemiologia
-tags: [epidemiologia]
+categories: Divulgacion
+tags: [Divulgacion]
 image: Ambiente-1.jpeg
 ---
 
