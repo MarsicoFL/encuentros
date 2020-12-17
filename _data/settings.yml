@@ -7,7 +7,7 @@ disqus:
 google-ID: 'G-BZHCWQ0GPM'
 
 menu:
-- {name: 'Divulgación', folder: 'pages', file: 'Divulgacion.html'}
+- {name: 'Divulgación', folder: 'pages', file: 'divulgacion.html'}
 - {name: 'Tecnologías de información', folder: 'pages', file: 'Monitoreo_TDF.html'}
 - {name: 'Genética Estadística', folder: 'pages', file: 'Tutoriales.html'}
 - {name: 'Autor', folder: 'pages', file: 'Autor.html'}
